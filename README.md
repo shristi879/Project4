@@ -36,6 +36,6 @@ Presented By:
  
  30th May 2023: Prepare PowerPoint presentation
  
- 1st june: Presentation Day
+ 1st june 2023: Presentation Day
  
  
