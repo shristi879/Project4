@@ -2,7 +2,7 @@
 
 # Background information:
   
-  For our final project, our team have multiple options of choices , Although we had certain criteria that a minimum had to be met, we wanted to throw everything possible that we learned during the six months of our Boot Camp.
+  For our final project, our team have multiple options of choices , Although we had certain criteria that  had to be met, we wanted to throw everything possible that we learned during the six months of our Boot Camp.
 
 
 
