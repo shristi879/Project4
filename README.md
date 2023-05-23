@@ -1,5 +1,4 @@
-# Project4  
-          Work Life Balance
+# Project4     Work Life Balance
           
 
 # Background information:
