@@ -28,8 +28,7 @@
      
      
       
-      
-# Data Source:
+     
  
  
  
@@ -42,9 +41,9 @@
  
  23rd May 2023: Develop Project within Team, Working on Tableau
  
- 25th May 2023: 
+ 25th May 2023: Working on cleaning data, MongoDb
  
- 29th May 2023: 
+ 29th May 2023: working on GoogleCollab
  
  30th May 2023: Prepare PowerPoint presentation
  
