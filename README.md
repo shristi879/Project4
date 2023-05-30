@@ -1,4 +1,18 @@
-# Project4     Work Life Balance
+# Project4     Analyzing Human Resource Dynamics And Predicting Attrition
+                (Insights and Strategies For Effective Workforce Management)
+                
+    
+# Purposal OF Project
+
+The version of the importance of understanding human resource dynamics and attrition.
+
+      1.Retaining Talent 
+      2.Workforce  Planning
+      3.Employee Engagement
+      4.Talent Acquisition
+      5.Performance Management
+      6.Organizational Performance
+
           
 
 # Background information:
@@ -18,8 +32,21 @@
      
      
      
+   # Importing and Cleaning Data
      
-# Data And Delivery :    
+     1.Pandas
+     2.Matplotlib
+     3.SKlearn
+     4.Tableau
+     5.MongoDB
+     6.Google Collab
+     7.Dropping unnecessary columns using (drop) function
+     8.Scaling the numerical data using (StandardScaler)       
+     
+     
+
+
+
 
 
 
