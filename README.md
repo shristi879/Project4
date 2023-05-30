@@ -1,5 +1,6 @@
 # Project4     Analyzing Human Resource Dynamics And Predicting Attrition
                 (Insights and Strategies For Effective Workforce Management)
+                              
                 
     
 # Purposal OF Project
@@ -44,6 +45,10 @@ The version of the importance of understanding human resource dynamics and attri
      8.Scaling the numerical data using (StandardScaler)       
      
      
+   # Link for Dashboard Tableau
+    
+    
+     https://public.tableau.com/app/profile/yingzhen.wang/viz/HRanalyticsdashboard_16847696570960/HRanalyticsdashboard
 
 
 
