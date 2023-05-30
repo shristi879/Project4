@@ -62,7 +62,7 @@ The version of the importance of understanding human resource dynamics and attri
  
  
  
- 
+ # Working Days
  
  22nd May 2023:  Outline project ideas ,Data Collection and presenting purposal Team will be working together
  
